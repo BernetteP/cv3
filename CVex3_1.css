@@ -29,23 +29,3 @@ body{
 section{
 	display: flex;
 }
-
-@font-face {
-    font-family: 'action_manregular';
-    src: url('Fonts/Action_Man-webfont.eot');
-    src: url('Fonts/Action_Man-webfont.eot?#iefix') format('embedded-opentype'),
-         url('Fonts/Action_Man-webfont.woff2') format('woff2'),
-         url('Fonts/Action_Man-webfont.woff') format('woff'),
-         url('Fonts/Action_Man-webfont.ttf') format('truetype'),
-         url('Fonts/Action_Man-webfont.svg#action_manregular') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-}
-h1{
-	font-family:'action_manregular', "comic sans MS", Arial, sans-serif; 
-	font-size: 2.3em;
-}
-
-
